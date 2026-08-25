@@ -1,0 +1,12 @@
+keys/
+connect-config/
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+rsa_key.p8
+rsa_key.pub
+*.pem
+assets/connector.json
